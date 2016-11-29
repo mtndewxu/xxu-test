@@ -4,7 +4,7 @@ public class NLPTest {
     
     public static void main(String[] args) {
         String [] etypes = {" Token ", " Emoticon ", " Collocation "};
-//        System.out.println("test");
+        System.out.println("test");
 //        System.out.println("test");
 //        GateAnalyzer analyzer = new GateAnalyzer ( etypes );
 //        String str = "Its a big project to lay on the line , "
